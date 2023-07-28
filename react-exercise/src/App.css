@@ -1,0 +1,19 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	background-color: #e1ebf5;
+	width: 400px;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5px;
+}
+
+.card:hover {
+	background-color: #f0f5f9;
+}
+
+.searchbar {
+  padding: 5px;
+  width: 400px;
+  margin: 5px;
+}
